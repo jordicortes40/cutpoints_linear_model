@@ -2,7 +2,7 @@
 
 **Brief description**: Given a continous response (Y) and a continous predictor (X), this script provides the way to find the the optimal cutpoints that maximize the R<sup>2</sup>
 
-**Note: Categorizing predictors is not a good practice at all. Continuous predictors should not be categorized. See, for example, the [TRIPOD guideline](https://annals.org/aim/fullarticle/2088542/transparent-reporting-multivariable-prediction-model-individual-prognosis-diagnosis-tripod-explanation). It should only be used for teaching purposes to teach what not to do**
+**Note: Categorizing predictors is not a good practice at all. Continuous predictors should not be categorized. See, for example, the [TRIPOD guideline](https://annals.org/aim/fullarticle/2088542/transparent-reporting-multivariable-prediction-model-individual-prognosis-diagnosis-tripod-explanation). This material is for teaching purposes: what not to do**
 
 # Files explanation
 
